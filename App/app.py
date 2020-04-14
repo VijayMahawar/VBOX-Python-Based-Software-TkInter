@@ -34,7 +34,7 @@ from tkinter import *
 from PIL import ImageTk,Image  
 
 #from vbox_app_scripts.functions import *
-from Scripts.functions import *
+from App.functions import *
 
 class vbox_procesing:
     def __init__(self, master):
