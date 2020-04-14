@@ -1,5 +1,5 @@
 import tkinter as tk
-from vbox_app_scripts.app import vbox_procesing
+from App.app import vbox_procesing
 from tkinter import messagebox
 
 
